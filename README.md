@@ -4,9 +4,13 @@
 
 ## Descrição
 ### A landing page foi criada usando HTML, CSS e JavaScript, e apresenta os seguintes recursos:
+
 Exibição de imagens e descrições de diversos personagens do anime One Piece.
+
 Funcionalidade de seleção de personagem, que destaca visualmente o personagem selecionado e exibe sua descrição correspondente.
+
 Botões de seleção de personagem que permitem aos usuários navegar facilmente entre os diferentes personagens disponíveis.
+
 Layout responsivo para garantir uma experiência consistente em dispositivos móveis e desktops.
 
 ### imagens
@@ -17,6 +21,9 @@ Layout responsivo para garantir uma experiência consistente em dispositivos mó
 ### Durante o desenvolvimento deste projeto, eu aprendi:
 
 A praticar e melhorar minhas habilidades em HTML, CSS e JavaScript.
+
 Como criar uma interface de usuário interativa e responsiva usando JavaScript.
+
 A importância de organizar e estruturar meu código para facilitar a manutenção e a escalabilidade.
+
 Como integrar e estilizar elementos de acordo com uma temática específica para criar uma experiência imersiva para os usuários.
